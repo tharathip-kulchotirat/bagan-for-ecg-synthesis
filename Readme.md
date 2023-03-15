@@ -29,4 +29,4 @@ The proposed BAGAN methodology consists of three training steps:
 2.   Mode Collapse
 > Mode collapse is a type of GAN failure where each iteration of the generator over-optimizes for a specific discriminator, leading to the discriminator being unable to learn and escape from this trap. Consequently, the generator ends up producing a limited range of output types, causing a rotation effect.
 
-> With for time and resources, I hope this model and perform better results.
+> With for time and resources, I hope this model would perform better results.
