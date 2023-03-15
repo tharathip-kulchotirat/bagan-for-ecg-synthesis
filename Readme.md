@@ -13,7 +13,7 @@ The proposed BAGAN methodology consists of three training steps:
 
 ![alt text](./bagan_model_from_the_article.png)
 
-#Sample
+# Sample
 ![alt text](./sample.png)
 
 # Losses
