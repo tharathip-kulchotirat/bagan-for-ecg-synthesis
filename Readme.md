@@ -31,4 +31,5 @@ The proposed BAGAN methodology consists of three training steps:
 
 > With for time and resources, I hope this model would perform better results.
 
-> RUN ON COLAB: https://colab.research.google.com/drive/1bb0TpY3rbHrpi8neNEtdtD9wt01rlPdj
+
+RUN ON COLAB: https://colab.research.google.com/drive/1bb0TpY3rbHrpi8neNEtdtD9wt01rlPdj
