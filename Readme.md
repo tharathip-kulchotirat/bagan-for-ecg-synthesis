@@ -13,6 +13,12 @@ The proposed BAGAN methodology consists of three training steps:
 
 ![alt text](./bagan_model_from_the_article.png)
 
+Later in 2021, Huang, G., Jafari, A.H. Enhanced balancing GAN: minority-class image generation. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-021-06163-8 published.
+
+In this challenge, I'd like to refer to this article and their github repo: https://github.com/GH920/improved-bagan-gp
+
+And, know-how from https://github.com/soumith/ganhacks
+
 # Sample
 ![alt text](./sample.png)
 
