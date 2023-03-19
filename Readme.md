@@ -25,6 +25,12 @@ And, know-how from https://github.com/soumith/ganhacks
 # Losses
 ![alt text](./ecg_loss_plot.png)
 
+# TSNE Plot
+### TSNE Encoder
+![alt text](./tsne_encoded.png)
+### TSNE Embedding
+![alt text](./tsne_embeded.png)
+
 # Discussion
 
 **Common problems of GANs**
